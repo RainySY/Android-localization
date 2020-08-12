@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright © 2018-19 The Superior OS Project
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sakura_settings_title">Sakura Configs</string>
+    <string name="sakura_dashboard_summary">Feels like spring</string>
+
+    <!-- ROM Info -->
+    <string name="sakura_about_info">About Project</string>
+    <string name="sakura_about_info_summary_title">About Team</string>
+    <string name="sakura_about_info_summary">Project Sakura is a customized Lineage OS. Its sole purpose is to provide a platform which is powered by Lineage and is more customizable than Lineage.</string>
+
+    <!-- Dev Info -->
+    <string name="devs_header">Developers</string>
+    <string name="dev_1">LordShenron</string>
+    <string name="dev1_description">Founder/Developer</string>
+    <string name="dev_2">Chaitanaya Mittal</string>
+    <string name="dev2_description">Developer</string>
+    <string name="dev_3">Arun Teltia</string>
+    <string name="dev3_description">Web Developer</string>
+
+    <!-- Maintainer Info -->
+    <string name="maintainers_header">Maintainers</string>
+    <string name="maintainers_header_summary">These are the Official Devices Maintainers...</string>
+    
+    <string name="device_asus">Asus</string>
+    <string name="device_X00T">ZenFone Max Pro M1</string>
+    <string name="device_X00T_description">X00T\nPriyanshu</string>
+
+    <string name="device_huawei">Huawei</string>
+    <string name="device_angler">Nexus 6P</string>
+    <string name="device_angler_description">angler\nAmartya</string>
+
+    <string name="device_leeco">LeEco</string>
+    <string name="device_le2">Le 2</string>
+    <string name="device_leeco_description">S2\nCakesTwix</string>
+
+    <string name="device_meizu">Meizu</string>
+    <string name="device_m1882">Meizu 16T</string>
+    <string name="device_m1882_description">m1882\nTheDauke</string>
+    <string name="device_m1928">Meizu 16TH</string>
+    <string name="device_m1928_description">m1928\nTheDauke</string>  
+    <string name="device_m1872">Meizu 16X</string>
+    <string name="device_m1872_description">m1872\nAlex/string</string>      
+
+    <string name="device_moto">Motorola</string>
+    <string name="device_ocean">G7 Power</string>
+    <string name="device_ocean_description">ocean\nVulkan-ops</string>
+    <string name="device_sanders">G5S Plus</string>
+    <string name="device_sanders_description">sanders\nArmSM</string>
+    <string name="device_merlin">G3 Turbo</string>
+    <string name="device_merlin_description">merlin\nCharlie</string>         
+
+    <string name="device_realme">Realme</string>
+    <string name="device_realme1">Realme 1</string>
+    <string name="device_realme1_description">CPH1859\nCyberJalagam</string>
+
+    <string name="device_samsung">Samsung</string>
+    <string name="device_dreamlte">Galaxy S8</string>
+    <string name="device_dreamlte_description">dreamlte\nHaridhayal</string>
+    <string name="device_dream2lte">Galaxy S8 Plus</string>
+    <string name="device_dream2lte_description">dream2lte\nHaridhayal</string>
+    <string name="device_greatlte">Note 8</string>
+    <string name="device_greatlte_description">greatlte\nHaridhayal</string>
+
+    <string name="device_xiaomi">Xiaomi</string>
+    <string name="device_mido">Redmi Note 4X</string>
+    <string name="device_mido_description">mido\nJigen</string>
+    <string name="device_riva">Redmi 5A</string>
+    <string name="device_riva_description">riva\nSunny Raj</string>
+    <string name="device_violet">Redmi Note 7 Pro</string>
+    <string name="device_violet_description">violet\nPrajwal and Nitish</string>
+    <string name="device_wayne">Mi 6x</string>
+    <string name="device_wayne_description">wayne\nRoger W.</string>
+    <string name="device_beryllium">Pocophone F1</string>
+    <string name="device_beryllium_description">beryllium\nHumanGlitch</string>
+
+    <!-- Categories -->
+    <string name="button_title">Buttons</string>
+    <string name="gestures_title">Gestures</string>
+    <string name="lockscreen_title">Lock Screen</string>
+    <string name="misc_title">Miscellaneous</string>
+    <string name="navbar_title">Navigation Bar</string>
+    <string name="powermenu_title">Power Menu</string>
+    <string name="quicksettings_title">Quick Settings</string>
+    <string name="interface_title">Interface</string>
+    <string name="animations_title">Animations</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="updater_title">Sakura OTA</string>
+	
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Reset</string>
+    <string name="取消">Cancel</string>
+    <string name="save">Save</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
+      <!-- Custom headers -->
+    <string name="notification_title">Notification panel</string>
+    <string name="status_bar_custom_header_title">Enable</string>
+    <string name="daylight_header_pack_title">Header image collection</string>
+    <string name="status_bar_custom_header_shadow_title">Header image shadow</string>
+    <string name="status_bar_custom_header_shadow_summary">For better visibility on bright images</string>
+    <string name="unit_percent">\u0025</string>
+    <string name="static_header_provider" translatable="false">static</string>
+    <string name="daylight_header_provider" translatable="false">daylight</string>
+    <string name="static_header_provider_title">Static image</string>
+    <string name="daylight_header_provider_title">Image collection</string>
+    <string name="custom_header_provider_title">Header provider</string>
+    <string name="custom_header_pick_title">Select header image</string>
+    <string name="custom_header_pick_summary">Select a local or remote image</string>
+    <string name="style_enabled_summary">Custom header image is ON</string>
+    <string name="style_disabled_summary">Custom header image is OFF</string>
+    <string name="header_provider_disabled">Disabled</string>
+    <string name="custom_header_title">Custom header image</string>
+    <string name="file_header_select_title">Select local image</string>
+    <string name="file_header_select_summary">Select image from storage</string>
+    <string name="file_header_provider_title">Single image</string>
+    <string name="file_header_provider" translatable="false">file</string>
+
+    <!-- QuickSettings Panel Transparency -->
+    <string name="qs_panel_alpha_title">Quick Settings opacity</string>
+    <string name="qs_panel_alpha_summary">Configure opacity of background</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Three finger gesture</string>
+    <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
+
+    <!-- Allow fake signature checkbox in developer settings -->
+    <string name="allow_signature_fake">Allow signature spoofing</string>
+    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app</string>
+
+    <!-- Force expanded notifications -->
+    <string name="force_expanded_notifications_title">Force expanded notifications</string>
+    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+
+    <!-- Ambient edge lighting -->
+    <string name="notification_screen_title">Screen</string>
+    <string name="pulse_ambient_light_title">Edge lighting</string>
+    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
+    <string name="pulse_ambient_light_color_title">Edge light color</string>
+    <string name="default_string">Default</string>
+
+    <!-- AOKP custom system animations -->
+    <string name="system_animation_title">System</string>
+    <string name="activity_open_title">Activity open animation</string> 
+    <string name="activity_close_title">Activity close animation</string>
+    <string name="task_open_title">Task open animation</string>
+    <string name="task_open_behind_title">Task open behind animation</string>
+    <string name="task_close_title">Task close animation</string>
+    <string name="task_move_to_front_title">Move to front animation</string> 
+    <string name="task_move_to_back_title">Move to back animation</string>
+    <string name="wallpaper_open_title">Wallpaper open animation</string>
+    <string name="wallpaper_close_title">Wallpaper close animation</string> 
+    <string name="wallpaper_intra_open_title">Wallpaper intra open animation</string>
+    <string name="wallpaper_intra_close_title">Wallpaper intra close animation</string>
+    <string name="animation_duration_title">Animation duration</string> 
+    <string name="title_animation_no_override">Prevent app overrides</string>
+    <string name="summary_animation_no_override">Prevent apps from overriding transitions</string> 
+    <string name="animation_duration_default">Default</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
+    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+
+    <!-- Themes -->
+    <string name="theme_type_title">Sakura themes</string>
+    <string name="theme_type_summary">Select theme</string>
+    <string name="theme_type_light">Light</string>
+    <string name="theme_type_pitch_black">Google Grey</string>
+    <string name="theme_type_solarized_dark">Solarized dark</string>
+    <string name="theme_type_baked_green">Baked Green</string>
+    <string name="theme_type_choco_x">Choco X</string>
+    <string name="theme_type_du_pitchblack">Pitch black</string>
+    <string name="theme_type_material_ocean">Material Ocean</string>
+    <string name="theme_type_style_mizu">Mizu</string>
+
+    <!--QS blur toggle -->
+    <string name="blur_quicksettings">Blur behind quick settings</string>
+    <string name="blur_quicksettings_subtitle">blurs darkened background behind quick settings</string>
+
+    <!-- Lock screen visualizer -->
+    <string name="lockscreen_visualizer_enable">Music Visualizer</string>
+    <string name="lockscreen_visualizer_enable_summary">Show visualizer bars while playing music</string>
+
+   <!-- Battery Bar -->
+    <string name="battery_bar_title">Battery Bar</string>
+    <string name="battery_bar_summary">Decorate battery bar</string>
+    <string name="battery_bar_location">Battery bar location</string>
+    <string name="battery_bar_color">Battery bar color</string>
+    <string name="battery_bar_style_title">Battery bar style</string>
+    <string name="battery_bar_thickness_title">Battery bar thickness</string>
+    <string name="battery_bar_animate_title">Charging animation</string>
+    <string name="battery_bar_animate_summary">The charging animation may result in a poor user experience. Enable at your own discretion.</string>
+    <string name="battery_bar_hide">Hide</string>
+    <string name="battery_bar_statusbar">Statusbar</string>
+    <string name="battery_bar_topnav">Top of navbar</string>
+    <string name="battery_bar_bottomnav">Bottom of navbar</string>
+    <string name="battery_bar_reg">Regular</string>
+    <string name="battery_bar_center">Center-mirrored</string>
+    <string name="battery_bar_charging_color">Battery bar charging color</string>
+    <string name="battery_bar_battery_low_color">Battery bar low battery color</string>
+    <string name="battery_bar_reversed">Reversed</string>
+    <string name="battery_bar_use_gradient_color">Use gradient color</string>
+    <string name="battery_bar_gradient_color_summary">Use gradient color as a scale for the battery level</string>
+    <string name="battery_bar_high_color">High level color"</string>
+    <string name="battery_bar_low_color">Low level color"</string>
+    <string name="battery_bar_battery_low_color_warning">Battery bar low battery color</string>
+
+    <!-- Enable/Disable Screenshot sound -->
+    <string name="screenshot_sound_title">Screenshot sounds</string>
+
+    <!--qs tint toggle-->
+    <string name="qs_bg_use_new_tint">QS tint toggle</string>
+    <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background</string>
+
+    <!-- Hide Apps from Recents -->
+    <string name="hide_apps_from_recents_title">Hide apps from recents</string>
+    <string name="hide_apps_from_recents_summary">These apps will be automatically hide from recents screen when they are opened next time</string>
+    <string name="hide_from_recents_add_app">Add app to Hide list</string>
+    <string name="hide_from_recents_picker_title">Automatically hide for these apps</string>
+    <string name="profile_choose_app">Choose app</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_delete_message">Remove selected item?</string>
+
+    <!-- R Notification headers -->
+    <string name="notification_headers_title">Show notification headers</string>
+    <string name="notification_headers_summary">Whether to show R style notification headers (Requires a SystemUI restart)</string>
+
+    <!-- OOS Clear all button -->
+    <string name="enable_clear_all_button">OOS Styled clear all button</string>
+    <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+
+    <!-- Rounded corners -->
+    <string name="unit_pixels">dp</string>
+    <string name="corners_title">Rounded corners</string>
+    <string name="corners_summary">Allow customized rounded corners</string>
+    <string name="corner_radius">Rounded corner radius</string>
+    <string name="content_padding">Corner content padding</string>
+    <string name="status_bar_padding">Statusbar extra padding</string>
+    <string name="corner_fwvals">Use default values</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+    <string name="sensor_block_app_picker_title">Block sensors for these apps</string>
+    <string name="add_sensor_block_package_title">Add apps for Sensor block</string>
+    <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors will be blocked for these apps</string>
+
+    <!-- Heads up snooze -->
+    <string name="heads_up_settings_title">Heads up settings</string>
+    <string name="heads_up_snooze_title">Snooze timer</string>  
+    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for given time</string>
+
+    <!-- Notification cat -->
+    <string name="notification_category">Notifications</string>
+    <string name="heads_up">Heads up</string>
+    <string name="heads_up_summary">Heads up notification options</string>
+
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Timeout</string>
+    <string name="heads_up_time_out_summary">The time peeking notifications will show for</string>
+
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">Gaming mode</string>
+    <string name="gaming_mode_summary">Customize Gaming mode preferences</string>
+    <string name="gaming_mode_enabled_summary">Allow turning on Gaming mode</string>
+    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
+    <string name="add_gaming_mode_package_title">Add apps for Gaming mode</string>
+    <string name="add_gaming_mode_package_summary">Gaming mode will turn on automatically when these apps are opened and turn off when they are closed</string>
+    <string name="gaming_mode_headsup_title">Block notifications</string>
+    <string name="gaming_mode_headsup_summary">Calls and alarms are exempted</string>
+    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
+    <string name="gaming_mode_hardware_keys_summary">When Gaming mode is turned on, buttons will be locked</string>
+    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
+    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on</string>
+    <string name="gaming_mode_ringer_title">Ringer in Gaming mode</string>
+    <string name="gaming_mode_ringer_off_title">Do not change</string>
+    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
+    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
+    <string name="gaming_mode_ringer_silent_title">Silent</string>
+    <string name="gaming_mode_notifications_title">Gaming mode indication</string>
+    <string name="gaming_mode_notifications_off_title">Disabled</string>
+    <string name="gaming_mode_notifications_notif_title">Show notification</string>
+    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
+    <string name="gaming_mode_notifications_all_title">Show toasts and notification</string>
+    <string name="gaming_mode_dynamic_title">Dynamic mode</string>
+    <string name="gaming_mode_dynamic_summary">Try detecting and adding gaming apps automatically</string>
+
+    <!--FOD -->
+    <string name="fod_icon_picker_category_title">FOD customization options</string>
+    <string name="fod_icon_picker_title">FOD icon picker</string>
+    <string name="fod_icon_picker_summary">Pick your favourite fingerprint icon</string>
+    <string name="fod_icon_picker_footer">In order to add your own icon, select the top left icon and use the OnePlus 6T FP Customizer app to select the icon you want.</string>
+    <string name="fod_wallpaper_color">Use wallpaper color for FOD icon</string>
+    <string name="fod_wallpaper_color_summary">Uses adjusted primary wallpaper color for FOD icon\nNOTE: might look good only with some wallpapers</string>
+    <string name="fod_recog_animation">FOD recognizing animation</string>
+    <string name="fod_recog_animation_summary">Shows animation while reading your finger</string>
+    <string name="fod_recog_animation_effect_title">FOD recognizing animation effect</string>
+
+    <!-- FOD pressed state behavior -->
+    <string name="fod_pressed_state_title">FOD pressed state behavior</string>
+    <string name="fod_pressed_state_footer">Icons/colors may vary depending on which device you are using.</string>
+    <string name="fod_pressed_state_icon">Icon (usually Cyan)</string>
+    <string name="fod_pressed_state_icon_white">Icon (White)</string>
+    <string name="fod_pressed_state_solid_color">Solid color (usually Green)</string>
+
+    <!-- Units -->
+    <string name="unit_seconds">seconds</string>
+    <string name="unit_milliseconds">milliseconds</string>
+
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">Smart Pixels</string>
+    <string name="smart_pixels_warning_text">Smart pixels is a power saving feature. Depending on how many pixels you decide to turn off, you could see improvement in battery life.</string>
+    <string name="smart_pixels_summary">Customize smart pixels</string>
+    <string name="smart_pixels_enable_title">Enable Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">Shut off pixels to reduce power consumption</string>
+    <string name="smart_pixels_on_power_save_title">Auto-enable on battery saver</string>
+    <string name="smart_pixels_on_power_save_summary">Enable Smart Pixels when battery saver is enabled</string>
+    <string name="smart_pixels_percent">Percent of pixels to disable</string>
+    <string name="smart_pixels_shift">Prevent burn-in by shifting pixels every</string>
+    <string name="smart_pixels_shift_times_15s">15 seconds</string>
+    <string name="smart_pixels_shift_times_30s">30 seconds</string>
+    <string name="smart_pixels_shift_times_1min">1 minute</string>
+    <string name="smart_pixels_shift_times_2min">2 minutes</string>
+    <string name="smart_pixels_shift_times_5min">5 minutes</string>
+    <string name="smart_pixels_shift_times_10min">10 minutes</string>
+    <string name="smart_pixels_shift_times_20min">20 minutes</string>
+    <string name="smart_pixels_shift_times_30min">30 minutes</string>
+    <string name="smart_pixels_shift_times_1h">1 hour</string>
+
+    <!-- Show Statusbar on Lockscreen -->
+    <string name="lockscreen_status_bar_title">Status bar</string>
+    <string name="lockscreen_status_bar_summary">Display status bar on the lockscreen</string>
+
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Power menu</string>
+    <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <string name="lockscreen_secure_power_menu_title">Secure power menu</string>
+    <string name="lockscreen_secure_power_menu_summary">Allow power menu action only after authentication</string>
+
+</resources>
